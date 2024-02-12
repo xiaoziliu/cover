@@ -1,7 +1,6 @@
 # Resume
-xiaoziliu.github.io/cover
+I am an environmental and resource economist, specialized in fisheries economics. 
 # Quantitative social scientist
-
 ## Education
 - MSc. 2003-2004, Environmental science, Lund University, Sweden
 - Ph.D. 2008-2012, Environmental and resource economics, Norwegian school of economics (NHH), Norway
