@@ -1,6 +1,6 @@
 # cover
 xiaoziliu.github.io/cover
-# quantitative social scientist
+# Quantitative social scientist
 
 # Education
 
