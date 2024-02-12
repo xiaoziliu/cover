@@ -8,6 +8,7 @@ xiaoziliu.github.io/cover
 ## Work experience
 - Research coordinator, 2012-2015, Climate and environment unit, Greenpeace International
 - Postdoc researcher, 2020- , Havforskningsintituttet, Norge 
+
 ## Projects
 
 ## Publications
