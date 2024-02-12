@@ -2,7 +2,7 @@
 xiaoziliu.github.io/cover
 # Quantitative social scientist
 
-# Education
+## Education
 
-# Work experience
+## Work experience
 
